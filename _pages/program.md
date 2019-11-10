@@ -9,7 +9,7 @@ header:
 
 # Program
 
-[**Click here for the conference program**](assets/MapNet2019programme.pdf).
+[**Click here for the conference program**](pdfs/MapNet2019programme.pdf).
 
 Sesson topics include:
 - Methodology advances in statistical genetics
